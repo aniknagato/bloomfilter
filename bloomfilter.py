@@ -69,7 +69,7 @@ class BloomFilter:
 
 
 
-# this function is submitted later.
+# this function is commited later.
 def evaluation_func(num, leng, p):
     dna_list = []
     for i in range(num):
